@@ -1,1 +1,1 @@
-Proyecto realizado con node, mongodb y express.
+Proyecto realizado con node, angular, mongodb y express.
